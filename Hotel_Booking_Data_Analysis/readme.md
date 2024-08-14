@@ -40,10 +40,6 @@ The dataset used for this analysis is located in the `Datasets` folder. It conta
 
 The analysis provides insights into booking trends, factors leading to cancellations, and patterns that could help improve hotel booking strategies.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
 ## Contact
 
 For any inquiries, you can reach me at:
