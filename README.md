@@ -56,7 +56,6 @@ These projects utilize the following tools and libraries:
 - **Description**: Conducted analysis on superstore data to identify sales trends, customer segments, and performance metrics.
 - **Tools Used**: Python, Pandas, Jupyter Notebook, Matplotlib, Seaborn
 
-*Add more projects as needed...*
 
 ## Datasets
 
