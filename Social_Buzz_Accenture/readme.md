@@ -27,5 +27,5 @@ The analysis provided strategic insights into content trends, helping inform dec
 
 For any inquiries, you can reach me at:
 - **Email**: sawantshubham861@gmail.com
-- **LinkedIn**: [shubhy04](https://linkedin.com/in/shubhy04
+- **LinkedIn**: [shubhy04](https://linkedin.com/in/shubhy04)
 
