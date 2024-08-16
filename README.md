@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-Welcome to my Data Analysis Projects repository! This repository showcases various data analysis projects that I've completed using Jupyter Notebook, Excel, Pandas, NumPy, Matplotlib, and Seaborn. Each project demonstrates different aspects of data manipulation, analysis, and visualization.
+Welcome to my Data Analysis Projects repository! This repository showcases various data analysis projects that I've completed using Jupyter Notebook, Excel, Pandas, NumPy, Matplotlib, Seaborn, and more. Each project demonstrates different aspects of data manipulation, analysis, and visualization.
 
 ## Table of Contents
 - [About the Projects](#about-the-projects)
@@ -33,29 +33,35 @@ These projects utilize the following tools and libraries:
 - **NumPy**: A package for scientific computing with Python, especially for working with arrays and matrices.
 - **Matplotlib**: A Python plotting library for creating static, animated, and interactive visualizations.
 - **Seaborn**: A Python visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+- **Streamlit**: A framework for creating interactive web applications.
+- **Plotly**: A graphing library for creating interactive plots.
 
 ## Project List
 
-### 1. [Hotel Booking Data Analysis](./Hotel_Booking_Data_Analysis)
+### 1. [Olympic Data Analysis Web App](./Olympic_Data_Analysis)
+- **Date**: August 2024
+- **Description**: Developed a comprehensive web application to analyze Olympic data, featuring modules like 'Medal Tally,' 'Overall Analysis,' 'Country-wise Analysis,' and 'Athlete-wise Analysis.' The project also includes a Jupyter Notebook file that demonstrates the same analysis.
+- **Tools Used**: Streamlit, Pandas, Seaborn, Matplotlib, Plotly, Jupyter Notebook
+
+### 2. [Hotel Booking Data Analysis](./Hotel_Booking_Data_Analysis)
 - **Date**: July 2024
 - **Description**: Conducted an in-depth analysis of hotel booking data with the primary goal of understanding the reasons behind booking cancellations.
 - **Tools Used**: Python, Pandas, Jupyter Notebook, Matplotlib, Seaborn
 
-### 2. [Road Accident Dashboard](./Road_Accident_Dashboard)
+### 3. [Road Accident Dashboard](./Road_Accident_Dashboard)
 - **Date**: July 2024
 - **Description**: Developed an interactive dashboard in Excel to analyze road accidents. The dashboard features dynamic charts and filters, allowing users to explore accident data across various dimensions such as location, time, and severity.
 - **Tools Used**: Excel
 
-### 3. [Social Buzz - Accenture Data Analytics and Visualization on Forage](./Social_Buzz_Accenture)
+### 4. [Social Buzz - Accenture Data Analytics and Visualization on Forage](./Social_Buzz_Accenture)
 - **Date**: June 2024
 - **Description**: Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture. Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions. Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 - **Tools Used**: Excel, PowerPoint, Video Presentation Tools
 
-### 4. [Superstore Analysis Project](./Superstore_Analysis_Project)
+### 5. [Superstore Analysis Project](./Superstore_Analysis_Project)
 - **Date**: June 2024
 - **Description**: Conducted analysis on superstore data to identify sales trends, customer segments, and performance metrics.
 - **Tools Used**: Python, Pandas, Jupyter Notebook, Matplotlib, Seaborn
-
 
 ## Datasets
 
@@ -67,8 +73,8 @@ To run the projects locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/shubhy04/data-analysis-projects.git
-    cd data-analysis-projects
+    git clone https://github.com/shubhy04/Data-Analysis.git
+    cd Data-Analysis
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
