@@ -38,7 +38,7 @@ These projects utilize the following tools and libraries:
 
 ## Project List
 
-### 1. [Olympic Data Analysis Web App](./Olympic_Data_Analysis)
+### 1. [Olympic Data Analysis Web App](./Olympic-Data-Analysis)
 - **Date**: August 2024
 - **Description**: Developed a comprehensive web application to analyze Olympic data, featuring modules like 'Medal Tally,' 'Overall Analysis,' 'Country-wise Analysis,' and 'Athlete-wise Analysis.' The project also includes a Jupyter Notebook file that demonstrates the same analysis.
 - **Tools Used**: Streamlit, Pandas, Seaborn, Matplotlib, Plotly, Jupyter Notebook
