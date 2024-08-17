@@ -22,7 +22,7 @@ The Olympic Data Analysis Web App is a comprehensive tool designed to explore an
 
 ## Deployment
 
-The web app is deployed on **Heroku**, making it accessible online for users to explore the data and analysis. 
+The web app is deployed on [Railway](https://olympic-data-analysis.up.railway.app/), making it accessible online for users to explore the data and analysis.
 
 ## Installation
 
@@ -59,4 +59,3 @@ To run the project locally, follow these steps:
 - The **Overall Analysis** provides a comprehensive look at Olympic statistics through line charts and heat maps.
 - The **Country-wise Analysis** focuses on the performance of specific countries, detailing their medal history and top-performing sports.
 - The **Athlete-wise Analysis** delves into individual athlete data, offering insights into age distributions and medal probabilities.
-
